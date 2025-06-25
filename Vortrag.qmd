@@ -1,16 +1,39 @@
 ---
 title: "Ein Bericht für eine Akademie"
 author: "Prof. Dr. Jan S. Voßwinkel"
+language:  _language.yml
 format:
   html:
     theme: cosmo
     code-fold: true
     number-sections: true
     toc: true
+    toc-depth: 3
+    toc-expand: true
+    
 editor: source
 ---
 
+# {-}
+
+|       ${}$        |  ${}$  |
+|:-----------------:|:--------------------------------------------------:|
+| ![logo](logo.png) |                  |
+
+
+:::{.callout-note 
+    icon=false 
+    collapse=true }
+
+# Wird es lustig? {.unnumbered}
+
+Das wird nicht lustig!
+
+:::
+
 # Einleitung
+
+
 
 # Forschungssemester
 
