@@ -1,0 +1,31 @@
+---
+title: "Ein Bericht für eine Akademie"
+author: "Prof. Dr. Jan S. Voßwinkel"
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    number-sections: true
+    toc: true
+editor: source
+---
+
+# Einleitung
+
+# Forschungssemester
+
+# Partner: cep
+
+# Das Projekt
+
+## Der Plan
+
+## Die Wirklichkeit
+
+### Dekarbonisierung des Straßenverkehrs
+
+### 2040-Ziele
+
+### Anschlussprojekt
+
+# Ende
