@@ -39,13 +39,30 @@ Das wird nicht lustig!
 
 # Partner: cep
 
+[Das cep](https://www.cep.eu/)
+
+
+
 # Das Projekt
 
 ## Der Plan
 
+Die Suche nach dem optimalen Instrumentenmix in der Klimaschutzpolitik (und eine Abgleichung mit realen Instrumentenmixen)
+
 ## Die Wirklichkeit
 
 ### Dekarbonisierung des Straßenverkehrs
+
+- [Towards Decarbonised Road Transport Driven by a Globally Competitive EU Automotive Industry](https://www.cep.eu/eu-topics/details/towards-decarbonised-road-transport-driven-by-a-globally-competitive-eu-automotive-industry.html)
+
+- Studie im Auftrag der [Association des Constructeurs Européens d’Automobiles (ACEA)](https://www.acea.auto/about-acea/)
+
+- Krisenhafte Zuspitzung
+in der europäischen Automobilindustrie
+
+- Lassen sich Dekarbonisierung und Wettbewerbsfähigkeit der Industrie vereinbaren?
+
+
 
 ### 2040-Ziele
 
