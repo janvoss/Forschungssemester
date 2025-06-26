@@ -37,11 +37,17 @@ Das wird nicht lustig!
 
 # Forschungssemester
 
+- Alle vier Jahre auf Antrag möglich
+
+- Freistellung von der Lehre
+
+- Widmung eines Forschungsprojekts
+
+- Rechenschaftspflicht (Bericht, Vortrag)
+
 # Partner: cep
 
 [Das cep](https://www.cep.eu/)
-
-
 
 # Das Projekt
 
@@ -62,10 +68,71 @@ in der europäischen Automobilindustrie
 
 - Lassen sich Dekarbonisierung und Wettbewerbsfähigkeit der Industrie vereinbaren?
 
+#### Ziele und Regulierungsrahmen der EU
 
+- Die EU verfolgt das Ziel, den Straßenverkehr hauptsächlich durch Elektrifizierung zu dekarbonisieren.
+
+- Zentrale Strategie: Übergang zu emissionsfreien Fahrzeugen (Zero Emission Vehicles, ZEV) durch strenge CO$_$-Emissionsstandards für neue Straßenfahrzeuge.
+
+- Fokus liegt auf der Förderung von batterieelektrischen Pkw und Vans (BEV) sowie emissionsfreien und emissionsarmen Lkw und Bussen (ZLEV).
+
+- Ab 2035 dürfen laut EU-Vorgaben nur noch emissionsfreie Pkw und leichte Nutzfahrzeuge neu zugelassen werden.
+
+- Für schwere Nutzfahrzeuge (Lkw) und Stadtbusse gelten gestaffelte CO$_2$-Reduktionsziele
+
+- Ziel ist es, bis 2050 Klimaneutralität im Verkehrssektor zu erreichen.
+
+- Instrumente  
+
+  - CO$_2$-Emissionsstandards für Fahrzeuge
+  
+  - Euro-7-Normen
+  
+  - Förderung erneuerbarer Energien
+  
+  - Infrastruktur für alternative Kraftstoffe
+  
+  - Emissionsrechtehandel für Straßenverkehr und Gebäude
+  
+  - ritical Raw Materials Act (CRMA) & Net-Zero Industry Act (NZIA)
+
+
+- Seit der Verabschiedung der EU-Dekarbonisierungsstrategie sind Inkonsistenzen und Risiken für deren Umsetzung sichtbar geworden.
+
+- Die geopolitische Situation hat sich erheblich verändert, was zusätzliche Herausforderungen für die Umsetzung der Strategie mit sich bringt.
+
+
+
+#### Herausforderungen im EU-Inland
+
+- Langsame Elektrifizierung der EU-Flotte aufgrund schwacher Nachfrage
+
+- Langsame Dekarbonisierung der Stromerzeugung
+
+- Abhängigkeit von Importen von Batterien und kritischen Rohstoffen
+
+#### Herausforderungen auf globalen Märkten
+
+- CO$_2$-Emissionsstandards im internationalen Vergleich
+
+- E-Kraftstoffe und Biokraftstoffe
+
+#### Empfehlungen
+
+- Technologieoffenheit erhöhen
+
+- Enabling Conditions sicherstellen
+
+- Diversifizierung der Rohstoffversorgung
+
+- Forschung und Entwicklung fördern
+
+- Berücksichtigung von E-Kraftstoffen und Biokraftstoffen
 
 ### 2040-Ziele
 
 ### Anschlussprojekt
+
+### Fazit
 
 # Ende
