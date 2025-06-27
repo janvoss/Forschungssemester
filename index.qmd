@@ -1,5 +1,5 @@
 ---
-title: "Ein Bericht für eine Akademie"
+title: "Ein Bericht für eine Akademie -- Die EU auf dem holprigen Weg der Dekarbonisierung"
 author: "Prof. Dr. Jan S. Voßwinkel"
 language:  _language.yml
 format:
@@ -10,6 +10,7 @@ format:
     toc: true
     toc-depth: 3
     toc-expand: true
+
     
 editor: source
 ---
@@ -63,6 +64,16 @@ Die Suche nach dem optimalen Instrumentenmix in der Klimaschutzpolitik (und eine
 
 - Studie im Auftrag der [Association des Constructeurs Européens d’Automobiles (ACEA)](https://www.acea.auto/about-acea/)
 
+:::{.callout-note 
+    icon=false 
+    collapse=true }
+
+# Audio-Zusammenfassung {.unnumbered}
+
+[Audio-Zusammenfassung von NotebookLM](https://notebooklm.google.com/notebook/2c3408c4-9308-4f9c-8779-7031702fbb99/audio)
+
+:::
+
 - Krisenhafte Zuspitzung
 in der europäischen Automobilindustrie
 
@@ -80,6 +91,42 @@ in der europäischen Automobilindustrie
 
 - Für schwere Nutzfahrzeuge (Lkw) und Stadtbusse gelten gestaffelte CO$_2$-Reduktionsziele
 
+:::{.callout-note 
+    icon=false 
+    collapse=true }
+
+# Ziele im Detail {.unnumbered}
+
+- EU-weite Flottenziele für **Pkw**:
+  - 2025-2029: 93,6 g CO2/km (15 % Reduktion gegenüber 2021)
+  - 2030-2034: 49,5 g CO2/km (55 % Reduktion gegenüber 2021)
+
+- EU-weite Flottenziele für **Vans**:
+  - 2025-2029: 153,9 g CO2/km (15 % Reduktion gegenüber 2021)
+  - 2030-2034: 90,6 g CO2/km (50 % Reduktion gegenüber 2021)
+
+- ZLEV-Gutschriftmechanismus (bis 2029):
+  - Gilt für Hersteller, deren Anteil an neuen ZLEV die Benchmarks übersteigt:
+    - 25 % für Pkw
+    - 17 % für Vans
+  - Ermöglicht eine Minderung des spezifischen CO2-Ziels um maximal 5 %
+
+
+- CO2-Emissionsstandards für **Lkw und Busse (HDV)**:
+  - Reduktionsziele für CO2-Emissionen im Vergleich zu 2019:
+    - 2025-2029: -15 %
+    - 2030-2034: -45 %
+    - 2035-2039: -65 %
+    - ab 2040:   -90 %
+  - Hersteller von Stadtbussen:
+    - Ab 2030: Mindestanteil von 90 % emissionsfreien Stadtbussen in der Neufahrzeugflotte
+    - Ab 2035: Mindestanteil von 100 % emissionsfreien Stadtbussen in der Neufahrzeugflotte
+  - Für HDVs:
+    - Einführung eines "Banking"- und "Borrowing"-Systems für Emissionsgutschriften und -schulden
+    - Dieses System gilt nicht für Pkw und Vans
+
+
+:::
 - Ziel ist es, bis 2050 Klimaneutralität im Verkehrssektor zu erreichen.
 
 - Instrumente  
@@ -130,6 +177,29 @@ in der europäischen Automobilindustrie
 - Berücksichtigung von E-Kraftstoffen und Biokraftstoffen
 
 ### 2040-Ziele
+
+#### Kontext
+
+#### Die Optionen
+
+- **Option 1 (linearer Pfad)**: Reduktion der Netto-THG-Emissionen um 80% bis 2040 gegenüber 1990 (entspricht einer durchschnittlichen jährlichen Reduktion von -2,2%).
+
+- **Option 2 (mindestens 85%)**: Reduktion der Netto-THG-Emissionen um mindestens 85% bis 2040 gegenüber 1990 (entspricht einer durchschnittlichen jährlichen Reduktion von mindestens -2,8% zwischen 2030 und 2040).
+
+- **Option 3 (mindestens 90%)**: Reduktion der Netto-THG-Emissionen um mindestens 90% bis 2040 gegenüber 1990 (entspricht einer durchschnittlichen jährlichen Reduktion von mindestens -3,3% zwischen 2030 und 2040).
+
+#### Die Probleme
+
+#### Fazit
+:::{.callout-note 
+    icon=false 
+    collapse=true }
+
+# Audio-Zusammenfassung {.unnumbered}
+
+[Audio-Zusammenfassung von NotebookLM](https://notebooklm.google.com/notebook/2197438a-61ba-4ff4-86a0-afcdc6c3915f/audio)
+
+:::
 
 ### Anschlussprojekt
 
