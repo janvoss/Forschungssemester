@@ -64,16 +64,6 @@ Die Suche nach dem optimalen Instrumentenmix in der Klimaschutzpolitik (und eine
 
 - Studie im Auftrag der [Association des Constructeurs Européens d’Automobiles (ACEA)](https://www.acea.auto/about-acea/)
 
-:::{.callout-note 
-    icon=false 
-    collapse=true }
-
-# Audio-Zusammenfassung {.unnumbered}
-
-[Audio-Zusammenfassung von NotebookLM](https://notebooklm.google.com/notebook/2c3408c4-9308-4f9c-8779-7031702fbb99/audio)
-
-:::
-
 - Krisenhafte Zuspitzung
 in der europäischen Automobilindustrie
 
@@ -83,11 +73,11 @@ in der europäischen Automobilindustrie
 
 - Die EU verfolgt das Ziel, den Straßenverkehr hauptsächlich durch Elektrifizierung zu dekarbonisieren.
 
-- Zentrale Strategie: Übergang zu emissionsfreien Fahrzeugen (Zero Emission Vehicles, ZEV) durch strenge CO$_$-Emissionsstandards für neue Straßenfahrzeuge.
+- Zentrale Strategie: **Übergang zu emissionsfreien Fahrzeugen** (Zero Emission Vehicles, ZEV) durch strenge CO$_2$-Emissionsstandards für neue Straßenfahrzeuge.
 
 - Fokus liegt auf der Förderung von batterieelektrischen Pkw und Vans (BEV) sowie emissionsfreien und emissionsarmen Lkw und Bussen (ZLEV).
 
-- Ab 2035 dürfen laut EU-Vorgaben nur noch emissionsfreie Pkw und leichte Nutzfahrzeuge neu zugelassen werden.
+- **Ab 2035** dürfen laut EU-Vorgaben **nur noch emissionsfreie Pkw** und leichte Nutzfahrzeuge neu zugelassen werden.
 
 - Für schwere Nutzfahrzeuge (Lkw) und Stadtbusse gelten gestaffelte CO$_2$-Reduktionsziele
 
@@ -95,25 +85,24 @@ in der europäischen Automobilindustrie
     icon=false 
     collapse=true }
 
-# Ziele im Detail {.unnumbered}
+# ZwischenZiele im Detail {.unnumbered}
 
 - EU-weite Flottenziele für **Pkw**:
-  - 2025-2029: 93,6 g CO2/km (15 % Reduktion gegenüber 2021)
-  - 2030-2034: 49,5 g CO2/km (55 % Reduktion gegenüber 2021)
+  - 2025-2029: 93,6 g CO$_2$/km (15 % Reduktion gegenüber 2021)
+  - 2030-2034: 49,5 g CO$_2$/km (55 % Reduktion gegenüber 2021)
 
 - EU-weite Flottenziele für **Vans**:
-  - 2025-2029: 153,9 g CO2/km (15 % Reduktion gegenüber 2021)
-  - 2030-2034: 90,6 g CO2/km (50 % Reduktion gegenüber 2021)
+  - 2025-2029: 153,9 g CO$_2$/km (15 % Reduktion gegenüber 2021)
+  - 2030-2034: 90,6 g CO$_2$/km (50 % Reduktion gegenüber 2021)
 
 - ZLEV-Gutschriftmechanismus (bis 2029):
   - Gilt für Hersteller, deren Anteil an neuen ZLEV die Benchmarks übersteigt:
     - 25 % für Pkw
     - 17 % für Vans
-  - Ermöglicht eine Minderung des spezifischen CO2-Ziels um maximal 5 %
+  - Ermöglicht eine Minderung des spezifischen CO$_2$-Ziels um maximal 5 %
 
-
-- CO2-Emissionsstandards für **Lkw und Busse (HDV)**:
-  - Reduktionsziele für CO2-Emissionen im Vergleich zu 2019:
+- CO$_2$-Emissionsstandards für **Lkw und Busse (HDV)**:
+  - Reduktionsziele für CO$_2$-Emissionen im Vergleich zu 2019:
     - 2025-2029: -15 %
     - 2030-2034: -45 %
     - 2035-2039: -65 %
@@ -202,20 +191,16 @@ $\rightarrow$ KOM: **Option3**
 
 - Gesellschaftliche und politische Akzeptanz
 
-$\rightarrow$ Reale Gefahr, dass
+$\rightarrow$ Reale Gefahr, dass die **politische Unterstützung verloren geht** und der **Zeitpfad unglaubwürdig** wird
+
 #### Fazit
-:::{.callout-note 
-    icon=false 
-    collapse=true }
 
-# Audio-Zusammenfassung {.unnumbered}
+- Lieber ein bescheideners aber glaubwürdigeres Ziel
 
-[Audio-Zusammenfassung von NotebookLM](https://notebooklm.google.com/notebook/2197438a-61ba-4ff4-86a0-afcdc6c3915f/audio)
-
-:::
-
-### Anschlussprojekt
-
-### Fazit
+- Transparente Debatte über Belastungen und den Umgang damit
 
 # Ende
+
+- Viel gelernt!
+
+- Vieles, was mich noch beschäftigt
