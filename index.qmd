@@ -188,8 +188,21 @@ in der europäischen Automobilindustrie
 
 - **Option 3 (mindestens 90%)**: Reduktion der Netto-THG-Emissionen um mindestens 90% bis 2040 gegenüber 1990 (entspricht einer durchschnittlichen jährlichen Reduktion von mindestens -3,3% zwischen 2030 und 2040).
 
+
+$\rightarrow$ KOM: **Option3**
+
+
 #### Die Probleme
 
+- Höhere ökonomische Belastung
+
+- Größere Verteilungskonflikte
+
+- Probleme der technischen Realisierbarkeit
+
+- Gesellschaftliche und politische Akzeptanz
+
+$\rightarrow$ Reale Gefahr, dass
 #### Fazit
 :::{.callout-note 
     icon=false 
