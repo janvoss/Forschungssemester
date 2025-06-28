@@ -98,7 +98,7 @@ in der europäischen Automobilindustrie
     icon=false 
     collapse=true }
 
-# ZwischenZiele im Detail {.unnumbered}
+# Zwischenziele im Detail {.unnumbered}
 
 - EU-weite Flottenziele für **Pkw**:
   - 2025-2029: 93,6 g CO$_2$/km (15 % Reduktion gegenüber 2021)
@@ -143,7 +143,7 @@ in der europäischen Automobilindustrie
   
   - Emissionsrechtehandel für Straßenverkehr und Gebäude
   
-  - ritical Raw Materials Act (CRMA) & Net-Zero Industry Act (NZIA)
+  - Critical Raw Materials Act (CRMA) & Net-Zero Industry Act (NZIA)
 
 
 - Seit der Verabschiedung der EU-Dekarbonisierungsstrategie sind Inkonsistenzen und Risiken für deren Umsetzung sichtbar geworden.
